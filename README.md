@@ -1,2 +1,2 @@
 # crypto
-Solution to crypto problems/puzzles
+Solutions to crypto problems/puzzles
